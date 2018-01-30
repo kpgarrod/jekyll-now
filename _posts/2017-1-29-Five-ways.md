@@ -33,7 +33,7 @@ The Crypto Monkey was ready to break open the piggy bank and deposit his savings
 
 Mmmm, the Crypto Monkey doesn't have that much in the jar, but hey, surely he could just buy the same coins in the same proportion as the fund does! Well there's really nothing stopping him, or you, except that it involves a little bit of work. You need to find an exchange that sells all the coins you need, figure out how many of each coin to buy and place the orders. Not too bad, but to keep your funds in balance you'll need to re-balance your portfolio each month. A lot less work than analysing the fundamentals of a thousand odd coins but still not a trivial task.
 
-Well, don't despair. We've put together an easy to use system to help the Crypto Monkey calculate the trades he needs to make and you can also make use of the system right here. Just choose the exchange you wangt to invest in, how much you have to invest, the number of different coins you want to hold in your 'index' and the system will tell you which trades you need to make! Best of all, it's completely free!
+Well, don't despair. We've put together an easy to use system to help the Crypto Monkey calculate the trades he needs to make and you can also make use of the system right here. Just choose the exchange you want to invest in, how much you have to invest, the number of different coins you want to hold in your 'index' and the system will tell you which trades you need to make! Best of all, it's completely free!
 
 Please try it out, we'd love to hear what you think.
 
