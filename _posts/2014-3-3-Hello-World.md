@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: 5 ways to make a cryptocurrency portfolio
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## 5. Technical Analysis
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## 4. Fundamental analysis
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## 3. Follow a guru
+
+## 2. Invest in an index
+
+## 1. Manage your own index
+
